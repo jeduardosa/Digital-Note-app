@@ -18,7 +18,7 @@ Este app foi projetado para atender uma demanda pessoal e para me ver livre dos 
 
 | Tela Principal | Criação de Nota | Categorias |
 |----------------|-----------------|------------|
-|![Tela 1](https://github.com/jeduardosa/Portifolio/blob/main/app/src/main/res/drawable/a1.PNG) | ![Tela 2](https://github.com/jeduardosa/Portifolio/blob/main/app/src/main/res/drawable/a2.PNG)) | ![Tela 3](https://github.com/jeduardosa/Portifolio/blob/main/app/src/main/res/drawable/a3.PNG)
+|![Tela 1](https://github.com/jeduardosa/Portifolio/blob/main/app/src/main/res/drawable/a1.PNG) | ![Tela 2](https://github.com/jeduardosa/Portifolio/blob/main/app/src/main/res/drawable/a2.PNG) | ![Tela 3](https://github.com/jeduardosa/Portifolio/blob/main/app/src/main/res/drawable/a3.PNG)
 
 ## 🛠️ Tecnologias Utilizadas
 
