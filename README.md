@@ -26,5 +26,3 @@ Este app foi projetado para atender uma demanda pessoal e para me ver livre dos 
 - **Arquitetura**: MVVM com Clean Architecture
 - **Persistência**: Room Database
 - **UI**: XML
-- **Navegação**: Navigation Component
-- **Padrões**: Coroutines, Flow, State Management
